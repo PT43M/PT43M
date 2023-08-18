@@ -1,6 +1,7 @@
-- 👀 Interested in Python, ML, MML, efficiency
+- 👀 Interested in Python, ML, MML, learning
 - 🌱 Currently learning Python
 - 💞️ Looking to collaborate on ChatGPT Projects
+- Rookie 
 
 <!---
 PT43M/PT43M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
